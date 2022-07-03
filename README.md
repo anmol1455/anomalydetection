@@ -154,3 +154,6 @@ If you use the source code please cite the following paper:
     year={2022}
     }
 ```
+
+####  Find synopsis for the project -  [here](https://github.com/anmol1455/anomalydetection/blob/main/synopsis.pdf)
+####  Find report for the project -  [here](https://github.com/anmol1455/anomalydetection/blob/main/Main%20report.pdf)
